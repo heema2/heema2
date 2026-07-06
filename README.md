@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.aqua-bot.xyz/img/AQUA-COVER.png" alt="Aqua Bot" width="100%" />
+<img src="https://i.ibb.co/x82RVM8v/social-preview.png" alt="Aqua Bot" width="100%" />
 
 <br /><br />
 
