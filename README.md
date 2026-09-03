@@ -33,7 +33,7 @@ The public studio hub is **[Ryuk-Dev](https://github.com/heema2/Ryuk-Dev)** — 
 |---|---|---|
 | 🧹 **Ryuk Booster** | Windows | [heema2/RyukBooster](https://github.com/heema2/RyukBooster) |
 | 🎵 **Ryuk Player** | Windows | [heema2/RyukPlayer](https://github.com/heema2/RyukPlayer) |
-| 🕌 **Azan Desktop** | Windows | [heema2/Ryuk-Azan](https://github.com/heema2/Ryuk-Azan) |
+| 🕌 **Azan Desktop** | Windows | [heema2/Azan-Desktop](https://github.com/heema2/Azan-Desktop) |
 | 🎮 **Ryuk GM Helper** | Windows | [heema2/RyukGMHelper](https://github.com/heema2/RyukGMHelper) |
 | ⏰ **Ryuk Reminder** | Android | [heema2/RyukReminder](https://github.com/heema2/RyukReminder) |
 | 💧 **Aqua Bot** | Discord + Web | [heema2/Aqua-Bot](https://github.com/heema2/Aqua-Bot) |
